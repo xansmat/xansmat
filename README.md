@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xansmat
 - 👀 I’m interested in learning full stack developer
-- 🌱 I’m currently learning Information Technology
+- 🌱 I’m currently studying Bachelors and Science of Information Technology
 - ⚡ Fun fact: loves pizza
 
 <!---
